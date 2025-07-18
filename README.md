@@ -12,16 +12,16 @@ The project utilizes FIFA 22 player data from SoFIFA.com, which includes compreh
 
 ## Methodology
 The methodology involved:
--Dataset Cleaning and Formatting: Handled duplicates, missing values, data type conversions, and removed irrelevant variables.
--Exploratory Data Analysis (EDA): Identified patterns, trends, and relationships within the dataset using R.
--Machine Learning Models: Implemented and evaluated various models for position prediction.
+- Dataset Cleaning and Formatting: Handled duplicates, missing values, data type conversions, and removed irrelevant variables.
+- Exploratory Data Analysis (EDA): Identified patterns, trends, and relationships within the dataset using R.
+- Machine Learning Models: Implemented and evaluated various models for position prediction.
 
 ## Machine Learning Models and Results
 The following machine learning models were applied, with their respective accuracies:
--Decision Tree: 0.8288
--Random Forest: 0.8878
--Logistic Regression: 0.7788
--K-Nearest Neighbor (KNN): 0.7423
+- Decision Tree: 0.8288
+- Random Forest: 0.8878
+- Logistic Regression: 0.7788
+- K-Nearest Neighbor (KNN): 0.7423
 The Random Forest model achieved the highest accuracy in predicting player positions.
 
 ## Conclusion
